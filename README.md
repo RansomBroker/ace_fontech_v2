@@ -4,4 +4,5 @@ there is some feature
 - automatic lifting if rain
 - set time for automatic lifting
 - automatic lifting when you set the time
+- always gay
 
